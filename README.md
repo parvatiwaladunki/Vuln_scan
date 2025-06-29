@@ -16,5 +16,5 @@ To identify vulnerabilities in my local machine using Nessus Essentials.
 6. Researched basic remediation steps for critical issues.
 
 ## Deliverables
-- `My Basic Network Scan_fmx6du.pdf`
+- `My Basic Network Scan_fmx6du.nessus`
 - Screenshots 
